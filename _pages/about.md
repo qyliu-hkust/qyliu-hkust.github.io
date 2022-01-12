@@ -39,4 +39,4 @@ Skills
 ======
 * **Language**: Mandarin (native), English (fluent)
 * **Development**: Java, C, C#, Python
-* **Others**: Team leader in FF14 :)
+* **Others**: Top tank player in FF14 :)
