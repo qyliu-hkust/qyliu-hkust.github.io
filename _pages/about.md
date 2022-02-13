@@ -10,12 +10,12 @@ redirect_from:
 
 Liu Qiyu (刘棋毓)
 =====
-Ph.D. Candidate at HKUST\
+Ph.D. in Computer Science\
 Email: qliuau [AT] cse.ust.hk
 
 Biography
 ======
-I am currently a Ph.D. candidate with the Department of Computer Science and Engineering (CSE), HKUST, supervised by [Prof. Lei CHEN](http://www.cs.ust.hk/~leichen/). Before that, I received my B.S. degree in computer science from UESTC. 
+I obtained the Ph.D. degree from the Department of Computer Science and Engineering (CSE), HKUST, supervised by [Prof. Lei CHEN](http://www.cs.ust.hk/~leichen/). Before that, I received my B.S. degree in computer science from UESTC. 
 
 Research Interest
 ======
