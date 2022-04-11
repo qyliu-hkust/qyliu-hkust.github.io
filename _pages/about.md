@@ -11,7 +11,7 @@ redirect_from:
 Liu Qiyu (刘棋毓)
 =====
 Ph.D. in Computer Science\
-Email: qliuau [AT] cse.ust.hk
+Email: lqy [AT] ust.hk
 
 Biography
 ======
