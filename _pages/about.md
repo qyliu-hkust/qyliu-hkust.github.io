@@ -15,7 +15,7 @@ Email: lqy [AT] ust.hk
 
 Biography
 ======
-I am currently a Post-doctoral Fellow at CSE/HKUST. I obtained the Ph.D. degree in Computer Science from HKUST, supervised by [Prof. Lei CHEN](http://www.cs.ust.hk/~leichen/). Before that, I received my B.S. degree in Computer Science from UESTC. 
+I obtained my Ph.D. degree in Computer Science from HKUST, supervised by [Prof. Lei CHEN](http://www.cs.ust.hk/~leichen/). Before that, I received my B.S. degree in Computer Science from UESTC. 
 
 Research Interest
 ======
