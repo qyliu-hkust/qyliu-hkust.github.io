@@ -17,6 +17,8 @@ Biography
 ======
 I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology. Before that, I received my B.S. degree in Computer Science from UESTC. 
 
+CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
+
 Research Interest
 ======
 * **Learning for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
