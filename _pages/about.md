@@ -15,7 +15,7 @@ Email: lqy [AT] ust.hk
 
 Biography
 ======
-I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology. Before that, I received my B.S. degree in Computer Science from UESTC. 
+I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology. Before that, I received my B.S. degree in Computer Science from UESTC. My expectation is to do something minor but useful. 
 
 CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
 
