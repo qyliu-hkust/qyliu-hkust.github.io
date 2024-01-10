@@ -11,34 +11,25 @@ redirect_from:
 Liu Qiyu (刘棋毓)
 =====
 Ph.D. in Computer Science\
-Email: lqy [AT] ust.hk
+Email: qyliu.cs [AT] gmail.com
 
 Biography
 ======
-I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology. Before that, I received my B.S. degree in Computer Science from UESTC. I wish myself to do something minor but useful. 
+I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I received my B.S. degree in Computer Science from UESTC. I wish myself to do something minor but useful. 
 
 CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
 
 Research Interest
 ======
-* **Learning for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
+* **AI for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
 * **Spatial-Temporal Database**: indexing, query processing, applications, etc.
   
-
-Publications
+Recent News
 ======
-1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle, SIGMOD 2022
-1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data, ICDE 2021
-1. **Qiyu Liu**, Libin Zheng, Xiang Lian, and Lei Chen, Efficiently Discovering Regions of Interest with User-Defined Score Function, DASFAA 2021
-1. **Qiyu Liu**, Libin Zheng, Yanyan Shen, and Lei Chen, Finish Them on the Fly: An Incentive Mechanism for Real-Time Spatial Crowdsourcing, DASFAA 2020 (**Best Paper Runnerup**)
-1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, Stable Learned Bloom Filters for Data Streams, VLDB 2020
-1. **Qiyu Liu**, Libin Zheng, and Lei Chen, RIDE: A System for Generalized Region of Interest Discovery and Exploration, ICDE 2020
-1. **Qiyu Liu**, Xiang Lian, and Lei Chen, Probabilistic Maximum Range-Sum Queries on Spatial Database, SIGSPATIAL 2019 (**Best Paper Candidate**)
-1. **Qiyu Liu**, Yuxiang Zeng, Lei Chen, and Xiuwen Zheng, Social-Aware Optimal Electric Vehicle Charger Deployment on Road Network, SIGSPATIAL 2019
-
+* [01/01/2024] I will join Southwest University as a professor in March 2024!
 
 Skills
 ======
-* **Language**: Mandarin (native), English (fluent)
-* **Development**: Java, C, C#, Python
+* **Language**: Mandarin (native), English (fluent), 
+* **Development**: Java, C, C++, Python
 * **Others**: Top tank player in FF14 :)
