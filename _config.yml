@@ -83,11 +83,11 @@ author:
   name             : "Qiyu Liu"
   avatar           : "profile.png"
   bio              : "Ph.D. in Computer Science"
-  location         : "Hong Kong SAR"
+  location         : "Chongqing, China"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=pSGf_YkAAAAJ
-  email            : qliuau@cse.ust.hk
+  email            : qyliu.cs@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -222,6 +222,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _cats
+  - scope:
+      path: ""
+      type: cats
     values:
       layout: single
       author_profile: true
