@@ -11,7 +11,7 @@ I have three cats, 逆子 (a bad boy like Stewie in Family Guys), 奥涅金 (One
 
 ![逆子](/imamges/nizi.jpg)
 
-![奥涅金(/imamges/aoniejin.jpg)
+![奥涅金](/imamges/aoniejin.jpg)
 
 ![大福](/imamges/dafu.jpg)
 
