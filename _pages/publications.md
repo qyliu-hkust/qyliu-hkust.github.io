@@ -1,9 +1,38 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+Selected Publications
+=====
+<img src="../images/icde-21.png" height="110" align="left">
+    
+    HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle.
+    **Qiyu Liu**, Yanyan Shen, and Lei Chen
+    <span class="badge badge-info">SIGMOD 2022</span>
+    sd
+
+
+
+
+
+<img src="../images/sigmod-22.png" height="110" align="left">
+
+    hello
+    jj
+    jj
+    jj
+
+
+<img src="../images/vldb-20.png" height="110" align="left">
+
+    hello
+    jj
+    jj
+    jj
+
 
 
 1. **Qiyu Liu**, Yanyan Shen, and Lei Chen, HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle, SIGMOD 2022
