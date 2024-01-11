@@ -9,18 +9,16 @@ Selected Publications
 =====
 **HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle**  
 **Qiyu Liu**, Yanyan Shen, and Lei Chen   
-<div class="alert-success">
-SIGMOD 2022
-</div>   
+<span style="color:blue">SIGMOD 2022</span>
 
 
+**LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data**   
 **Qiyu Liu**, Yanyan Shen, and Lei Chen   
-LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data   
 ICDE 2021   
 
 
+**Efficiently Discovering Regions of Interest with User-Defined Score Function**  
 **Qiyu Liu**, Libin Zheng, Xiang Lian, and Lei Chen   
-Efficiently Discovering Regions of Interest with User-Defined Score Function    
 DASFAA 2021   
 
 **Qiyu Liu**, Libin Zheng, Yanyan Shen, and Lei Chen   
