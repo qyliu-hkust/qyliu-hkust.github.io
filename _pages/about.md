@@ -26,7 +26,8 @@ Research Interest
   
 Recent News
 ======
-* [01/01/2024] I will join Southwest University as a professor in March 2024!
+* [01/01/2024] I will join Southwest University as a faculty member in March 2024!
+* [12/]
 
 Skills
 ======
