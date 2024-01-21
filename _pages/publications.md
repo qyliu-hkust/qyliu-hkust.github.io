@@ -23,7 +23,7 @@ Recent Publications
 
 **Finish Them on the Fly: An Incentive Mechanism for Real-Time Spatial Crowdsourcing**   
 **Qiyu Liu**, Libin Zheng, Yanyan Shen, and Lei Chen   
-<span style="color:blue">**🄲 DASFAA 2020 (CCF-B)**</span> <span style="color:red">**Best Paper Runner-up Award**</span> 🔗[**LINK**](https://link.springer.com/chapter/10.1007/978-3-030-59416-9_45)   
+<span style="color:blue">**🄲 DASFAA 2020 (CCF-B)**</span> <span style="color:red">**🏆 Best Paper Runner-up Award**</span> 🔗[**LINK**](https://link.springer.com/chapter/10.1007/978-3-030-59416-9_45)   
 
 **Stable Learned Bloom Filters for Data Streams**   
 **Qiyu Liu**, Yanyan Shen, and Lei Chen   
@@ -35,7 +35,7 @@ Recent Publications
 
 **Probabilistic Maximum Range-Sum Queries on Spatial Database**   
 **Qiyu Liu**, Xiang Lian, and Lei Chen   
-<span style="color:blue">**🄲 SIGSPATIAL 2019**</span>  <span style="color:red">**Best Paper Candidate Nomination**</span> 🔗[**LINK**](https://dl.acm.org/doi/abs/10.1145/3347146.3359376)     
+<span style="color:blue">**🄲 SIGSPATIAL 2019**</span>  <span style="color:red">**🏆 Best Paper Candidate Nomination**</span> 🔗[**LINK**](https://dl.acm.org/doi/abs/10.1145/3347146.3359376)     
 
 **Social-Aware Optimal Electric Vehicle Charger Deployment on Road Network**   
 **Qiyu Liu**, Yuxiang Zeng, Lei Chen, and Xiuwen Zheng   
