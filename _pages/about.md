@@ -10,7 +10,7 @@ redirect_from:
 
 Liu Qiyu (刘棋毓)
 =====
-Ph.D. in Computer Science\
+Prof. @ SWU & Ph.D. @ HKUST\
 Email: qyliu.cs [AT] gmail.com
 
 Biography
@@ -23,13 +23,15 @@ Research Interest
 ======
 * **AI for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
 * **Spatial-Temporal Database**: indexing, query processing, applications, etc.
+* **AI for Science**: AI for medical research, scientific data management, etc.
   
 Recent News
 ======
+* [03/11/2024] I have joined Southwest University as a professor! Welcome to join me if you are self-motivated and interested in my research!
 * [01/01/2024] I will join Southwest University as a faculty member in March 2024!
 
 Skills
 ======
-* **Language**: Mandarin (native), English (fluent), 
+* **Language**: Mandarin, English 
 * **Development**: Java, C, C++, Python
 * **Others**: Top tank player in FF14 :)
