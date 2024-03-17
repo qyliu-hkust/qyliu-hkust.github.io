@@ -7,7 +7,7 @@ author_profile: true
 
 Important Conferences
 =====
-**<span style="color:blue">Database**
+<span style="color:blue">**Database**
 
 - **ACM SIGMOD (1st tier)**
 - **VLDB (1st tier)**
@@ -16,7 +16,7 @@ Important Conferences
 - **DASFAA (2nd tier)**
 
 
-**<span style="color:blue">Data Mining & Information Retrieval**
+<span style="color:blue">**Data Mining & Information Retrieval**
 
 - **ACM SIGKDD (1st tier)**
 - **ACM SIGIR (1st tier)**
@@ -25,7 +25,7 @@ Important Conferences
 - **ACM CIKM (2nd tier)**
 
 
-**<span style="color:red">Important Deadlines (Recent)**
+<span style="color:red">**Important Deadlines (Recent)**
 
 |         Conference         |                   Date                   | Link |
 |:--------------------------:|:----------------------------------------:|:----:|
