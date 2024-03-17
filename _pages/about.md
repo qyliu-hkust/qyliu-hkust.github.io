@@ -10,8 +10,8 @@ redirect_from:
 
 Liu Qiyu (刘棋毓)
 =====
-Prof. @ SWU & Ph.D. @ HKUST\
-Email: qyliu.cs [AT] gmail.com
+**Prof. @ SWU & Ph.D. @ HKUST**\
+**Email**: qyliu.cs [AT] gmail.com
 
 Biography
 ======
@@ -22,12 +22,13 @@ CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://
 Research Interest
 ======
 * **AI for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
-* **Spatial-Temporal Database**: indexing, query processing, applications, etc.
+* **DB for AI**: LLM inference acceleration, AI infrastructures, etc.
 * **AI for Science**: AI for medical research, scientific data management, etc.
+* **Spatial-Temporal Database**: indexing, query processing, applications, etc.
   
 Recent News
 ======
-* [03/11/2024] I have joined Southwest University as a professor! Welcome to join me if you are self-motivated and interested in my research!
+* [03/11/2024] I have joined Southwest University as a professor. Welcome to join me if you are self-motivated and interested in my research!
 * [01/01/2024] I will join Southwest University as a faculty member in March 2024!
 
 Skills
