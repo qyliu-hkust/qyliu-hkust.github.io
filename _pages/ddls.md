@@ -30,6 +30,7 @@ Important Conferences
 |         Conference         |                   Date                   | Link |
 |:----------------------:|:------------------------------------:|:----:|
 |            **VLDB**            |             1st of each month            |🔗[**LINK**](https://vldb.org/2024/)      |
+| **SIGMOD 2025 (2nd round)** | Abstract: 10 April Full Paper: 17 April |🔗[**LINK**](https://2025.sigmod.org/calls_papers_important_dates.shtml)      |
 |          **CIKM 2024**         | Abstract: 13 May Full Paper: 20 May   |🔗[**LINK**](https://cikm2024.org/call-for-papers/)      |
-| **SIGMOD 2025 (2nd round)** | Abstract: 10 July Full Paper: 17 July |🔗[**LINK**](https://2025.sigmod.org/calls_papers_important_dates.shtml)      |
+| **SIGMOD 2025 (3nd round)** | Abstract: 10 July Full Paper: 17 July |🔗[**LINK**](https://2025.sigmod.org/calls_papers_important_dates.shtml)      |
 |          **KDD 2025**          |                 8 August                 |🔗[**LINK**](https://kdd2024.kdd.org/)      |
