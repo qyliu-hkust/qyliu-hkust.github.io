@@ -7,15 +7,21 @@ author_profile: true
 
 Recent Publications
 =====
+**How Good Are Multi-dimensional Learned Indices? An Experimental Survey**  
+**Qiyu Liu 📧**, Maocheng Li, Yuxiang Zeng, Yanyan Shen, Lei Chen   
+<span style="color:blue">**🄹 VLDBJ 2024 Under Revision (CCF-A)**</span> 🔗[**LINK**](https://arxiv.org/pdf/2405.05536)
+
+**GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks**
+Yunfeng Yu, Longlong Lin, **Qiyu Liu**, Zeli Wang, Xi Ou, Tao Jia
+<span style="color:blue">**🄲 ICMR 2024 (CCF-B)**</span> 🔗[**LINK**](https://dl.acm.org/doi/abs/10.1145/3652583.3658051)
+
 **HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle**  
 **Qiyu Liu**, Yanyan Shen, and Lei Chen   
 <span style="color:blue">**🄲 SIGMOD 2022 (CCF-A)**</span> 🔗[**LINK**](https://dl.acm.org/doi/abs/10.1145/3514221.3517880)   
 
-
 **LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data**   
 **Qiyu Liu**, Yanyan Shen, and Lei Chen   
 <span style="color:blue">**🄲 ICDE 2021 (CCF-A)**</span> 🔗[**LINK**](https://ieeexplore.ieee.org/abstract/document/9458896/)   
-
 
 **Efficiently Discovering Regions of Interest with User-Defined Score Function**  
 **Qiyu Liu**, Libin Zheng, Xiang Lian, and Lei Chen   
