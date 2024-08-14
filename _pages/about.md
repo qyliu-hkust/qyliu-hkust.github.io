@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Liu Qiyu (刘棋毓)
+Qiyu LIU
 =====
 **Prof. @ SWU & Ph.D. @ HKUST**\
 **Email**: qyliu.cs [AT] gmail.com
@@ -28,13 +28,13 @@ Research Interest
   
 Recent News
 ======
-* [07/01/2024] Our system on efficient distributed GNN training (staleness+quantization) has been submitted to VLDBJ!
-* [05/26/2024] Our work on benchmarking learned spatial indexes has been submitted to VLDBJ!
-* [03/11/2024] I have joined Southwest University as a professor. Welcome to join me if you are self-motivated and interested in my research!
-* [01/01/2024] I will join Southwest University as a faculty member in March 2024!
+* **[07/01/2024]** Our system on efficient distributed GNN training (staleness+quantization) has been submitted to VLDBJ!
+* **[05/26/2024]** Our work on benchmarking learned spatial indexes has been submitted to VLDBJ!
+* **[03/11/2024]** I have joined Southwest University as a professor. Welcome to join me if you are self-motivated and interested in my research!
+* **[01/01/2024]** I will join Southwest University as a faculty member in March 2024!
 
 Skills
 ======
 * **Language**: Mandarin, English 
-* **Development**: Java, C, C++, Python
+* **Development**: C, C++, Java, Python
 * **Others**: Top tank player in FF14 :)
