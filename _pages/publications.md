@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Recent Publications (<sup>🖂</sup>: corresponding author)
+Recent Publications (\*: corresponding author)
 =====
 **How Good Are Multi-dimensional Learned Indices? An Experimental Survey**  
-**Qiyu Liu <sup>🖂</sup>**, Maocheng Li, Yuxiang Zeng, Yanyan Shen, Lei Chen   
+**Qiyu Liu\***, Maocheng Li, Yuxiang Zeng, Yanyan Shen, Lei Chen   
 <span style="color:blue">**[J] VLDBJ 2024 Under Revision (CCF-A)**</span> 🔗[**LINK**](https://arxiv.org/pdf/2405.05536)
 
 **GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks**    
