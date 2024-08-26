@@ -15,7 +15,7 @@ Qiyu LIU
 
 Biography
 ======
-I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I received my B.S. degree in Computer Science from UESTC. I wish myself to do something minor but useful. 
+I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I received my B.S. degree in Computer Science from UESTC. **I wish myself to do something minor but useful.** 
 
 CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
 
@@ -28,6 +28,7 @@ Research Interest
   
 Recent News
 ======
+* **[08/16/2024]** Our system demonstration SanQus has been submitted to SC 2025!
 * **[07/01/2024]** Our system on efficient distributed GNN training (staleness+quantization) has been submitted to VLDBJ!
 * **[05/26/2024]** Our work on benchmarking learned spatial indexes has been submitted to VLDBJ!
 * **[03/11/2024]** I have joined Southwest University as a professor. Welcome to join me if you are self-motivated and interested in my research!
@@ -37,4 +38,4 @@ Skills
 ======
 * **Language**: Mandarin, English 
 * **Development**: C, C++, Java, Python
-* **Others**: Top tank player in FF14 :)
+* **Others**: Top tank (especially GBR and PLD) player in FF14 :)
