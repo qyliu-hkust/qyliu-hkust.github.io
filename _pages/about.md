@@ -28,7 +28,7 @@ Research Interest
   
 Recent News
 ======
-* **[09/11/2024]** Our system SanQus has been accepted by the poster session of SC 2025!
+* **[09/11/2024]** Our system SanQus has been accepted and nominated as the best research poster award by SC 2025!
 * **[08/16/2024]** Our system SanQus has been submitted to SC 2025!
 * **[07/01/2024]** Our system on efficient distributed GNN training (staleness+quantization) has been submitted to VLDBJ!
 * **[05/26/2024]** Our work on benchmarking learned spatial indexes has been submitted to VLDBJ!
