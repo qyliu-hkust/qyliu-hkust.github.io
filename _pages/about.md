@@ -28,6 +28,7 @@ Research Interest
   
 Recent News
 ======
+* **[10/01/2024]** Our theoretical revisit on PGM-Index has been submitted to VLDB 2025 ([arXiv link](https://arxiv.org/abs/2410.00846))!
 * **[09/11/2024]** Our system SanQus has been accepted and nominated as the best research poster award by SC 2025!
 * **[08/16/2024]** Our system SanQus has been submitted to SC 2025!
 * **[07/01/2024]** Our system on efficient distributed GNN training (staleness+quantization) has been submitted to VLDBJ!
