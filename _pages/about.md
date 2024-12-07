@@ -12,6 +12,7 @@ Qiyu LIU
 =====
 **Prof. @ SWU & Ph.D. @ HKUST**\
 **Email**: qyliu.cs [AT] gmail.com
+**Office**: Room 0x03EC Building 0x19
 
 Biography
 ======
