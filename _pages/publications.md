@@ -7,12 +7,12 @@ author_profile: true
 
 Recent Publications (\*: corresponding author)
 =====
-**Why Are Learned Indexes So Effective but Sometimes Ineffective?**
-**Qiyu Liu\***, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, Longlong Lin, Lei Chen
+**Why Are Learned Indexes So Effective but Sometimes Ineffective?**  
+**Qiyu Liu\***, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, Longlong Lin, Lei Chen   
 <span style="color:blue">**[Conf] VLDB 2025 Under Revision (CCF-A)**</span> 🔗[**LINK**](https://arxiv.org/pdf/2410.00846)
 
-**SanQus: Staleness and Quantization-Aware Full-Graph Decentralized Training in GNNs**  
-Hongbo Yin, Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jiannong Cao
+**SanQus: Staleness and Quantization-Aware Full-Graph Decentralized Training in GNNs**   
+Hongbo Yin, Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jiannong Cao  
 <span style="color:blue">**[Conf] SC 2024 (CCF-A)**</span> <span style="color:red">**🏆 Best Poster Finalist**</span> 🔗[**LINK**](https://sc24.supercomputing.org/proceedings/poster/poster_pages/post224.html)
 
 **How Good Are Multi-dimensional Learned Indices? An Experimental Survey**  
