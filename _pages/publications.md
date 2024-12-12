@@ -7,7 +7,7 @@ author_profile: true
 
 Recent Publications (\*: corresponding author)
 =====
-From Sancus to Sancus<sup>Q</sup>: Staleness and Quantization-Aware Full-Graph Decentralized Training in Graph Neural Networks   
+**From Sancus to Sancus<sup>Q</sup>: Staleness and Quantization-Aware Full-Graph Decentralized Training in Graph Neural Networks**   
 Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jiannong Cao  
 <span style="color:blue">**[Journal] VLDBJ 2024 Under Revision (CCF-A)**</span>  
  
