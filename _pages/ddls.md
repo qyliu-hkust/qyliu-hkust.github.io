@@ -5,6 +5,9 @@ permalink: /ddls/
 author_profile: true
 ---
 
+Always read and pursue papers published on **1st tier** venues, as they are "cakes" while others are "icing" 🍰.   
+
+
 Important Conferences
 =====
 Here is a useful 🔗[WEBSITE](https://ccfddl.github.io/) summarizing all important conference DDLs.
@@ -27,14 +30,4 @@ Here is a useful 🔗[WEBSITE](https://ccfddl.github.io/) summarizing all import
 - **ACM CIKM (2nd tier)**
 
 
-<span style="color:red">**Important Deadlines (Recent)**
 
-|         Conference         |                   Date                   | Link |
-|:----------------------:|:------------------------------------:|:----:|
-|            **VLDB**            |             1st of each month            |🔗[**LINK**](https://vldb.org/2024/)      |
-| **SIGMOD 2025 (2nd round)** | Abstract: 10 April Full Paper: 17 April |🔗[**LINK**](https://2025.sigmod.org/calls_papers_important_dates.shtml)      |
-|          **CIKM 2024**         | Abstract: 13 May Full Paper: 20 May   |🔗[**LINK**](https://cikm2024.org/call-for-papers/)      |
-| **SIGMOD 2025 (3nd round)** | Abstract: 10 July Full Paper: 17 July |🔗[**LINK**](https://2025.sigmod.org/calls_papers_important_dates.shtml)      |
-|          **KDD 2025**          |                 8 August                 |🔗[**LINK**](https://kdd2024.kdd.org/)      |
-|          **WWW 2025**          | Abstract: 7 October Full Paper: 14 October |🔗[**LINK**](https://www2025.thewebconf.org/research-tracks)      |
-|         **ICDE 2025**          |                25 November       |🔗[**LINK**](https://ieee-icde.org/2025/cfp/)      |
