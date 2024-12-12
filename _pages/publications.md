@@ -7,6 +7,10 @@ author_profile: true
 
 Recent Publications (\*: corresponding author)
 =====
+From Sancus to Sancus<sup>Q</sup>: Staleness and Quantization-Aware Full-Graph Decentralized Training in Graph Neural Networks   
+Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jiannong Cao  
+<span style="color:blue">**[Journal] VLDBJ 2024 Under Revision (CCF-A)**</span>  
+ 
 **Why Are Learned Indexes So Effective but Sometimes Ineffective?**  
 **Qiyu Liu\***, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, Longlong Lin, Lei Chen   
 <span style="color:blue">**[Conf] VLDB 2025 Under Revision (CCF-A)**</span> 🔗[**LINK**](https://arxiv.org/pdf/2410.00846)
