@@ -5,7 +5,11 @@ permalink: /ddls/
 author_profile: true
 ---
 
-Always read and pursue papers published on **1st tier** venues, as they are "cakes" while others are "icing" 🍰.   
+| - | - |
+|---|---|
+| ![gaoshou](/images/gaoshou.png) | Always read and pursue papers published on **1st tier** venues, as they are "cakes" while others are "icing" 🍰. |
+
+   
 
 
 Important Conferences
