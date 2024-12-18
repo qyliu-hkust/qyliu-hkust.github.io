@@ -25,7 +25,6 @@ Research Interest
 * **AI for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
 * **DB for AI**: LLM inference acceleration, AI infrastructures, etc.
 * **AI for Science**: AI for medical research, scientific data management, etc.
-* **Spatial-Temporal Database**: indexing, query processing, applications, etc.
   
 Recent News
 ======
