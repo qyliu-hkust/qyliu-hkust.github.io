@@ -5,10 +5,11 @@ permalink: /ddls/
 author_profile: true
 ---
 
-| - | - |
-|---|---|
-| ![gaoshou](/images/gaoshou.png) | Always read and pursue papers published on **1st tier** venues, as they are "cakes" while others are "icing" 🍰. |
 
+
+<img src="/images/gaoshou.png" alt="drawing" width="200"/>
+
+Always read and pursue papers published on **1st tier** venues, as they are "cakes" while others are "icing" 🍰.   
    
 
 
