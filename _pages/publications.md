@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Recent Publications (\*: corresponding author)
+List of Publications (\*: corresponding author)
 =====
 
 **BitTuner: A Toolbox for Automatically Configuring Learned Data Compressors**    
@@ -22,7 +22,7 @@ Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jian
 
 **SanQus: Staleness and Quantization-Aware Full-Graph Decentralized Training in GNNs**   
 Hongbo Yin, Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jiannong Cao  
-<span style="color:blue">**[Conf] SC 2024 (CCF-A)**</span> <span style="color:red">**🏆 Best Poster Finalist**</span> 🔗[**LINK**](https://sc24.supercomputing.org/proceedings/poster/poster_pages/post224.html)
+<span style="color:blue">**[Conf] SC 2024 Research Poster (CCF-A)**</span> <span style="color:red">**🏆 Best Poster Finalist**</span> 🔗[**LINK**](https://sc24.supercomputing.org/proceedings/poster/poster_pages/post224.html)
 
 **How Good Are Multi-dimensional Learned Indices? An Experimental Survey**  
 **Qiyu Liu\***, Maocheng Li, Yuxiang Zeng, Yanyan Shen, Lei Chen   
