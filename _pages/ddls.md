@@ -9,7 +9,7 @@ author_profile: true
 
 <img src="/images/gaoshou.png" alt="drawing" width="200"/>
 
-Always read and pursue papers published on **1st tier** venues, as they are "cakes" while others are "icing" 🍰.   
+Papers published on **1st tier** venues are "cakes" while others are "icing" 🍰.   
    
 
 
@@ -19,11 +19,23 @@ Here is a useful 🔗[WEBSITE](https://ccfddl.github.io/) summarizing all import
 
 <span style="color:blue">**Database**
 
-- **ACM SIGMOD (1st tier)**
+- **ACM SIGMOD/PODS (1st tier)**
 - **VLDB (1st tier)**
 - **IEEE ICDE (1.5 tier)**
-- **EDBT (2nd tier)**
-- **DASFAA (2.5 tier)**
+- **EDBT/ICDT/CIDR (1.75 tier)**
+
+
+<span style="color:blue">**System**
+
+- **USENIX OSDI (1st tier in OS)**
+- **ACM SOSP (1st tier in OS)**
+- **ISCA (1st tier in Computer Architecture)**
+- **IEEE HPCA (1st tier in Computer Architecture)**
+- **MICRO (1st tier in Computer Architecture)**
+- **SC (1st tier in HPC)**
+- **ACM ASPLOS (1st tier in General Systems)**
+- **USENIX ATC (1st tier in General Systems)**
+- **ACM EuroSys (1st tier in General Systems)**
 
 
 <span style="color:blue">**Data Mining & Information Retrieval**
@@ -32,7 +44,5 @@ Here is a useful 🔗[WEBSITE](https://ccfddl.github.io/) summarizing all import
 - **ACM SIGIR (1st tier)**
 - **IEEE ICDM (1.5 tier)**
 - **ACM WSDM (1.5 tier)**
-- **ACM CIKM (2nd tier)**
-
 
 
