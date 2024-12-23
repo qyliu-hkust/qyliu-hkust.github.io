@@ -7,6 +7,9 @@ author_profile: true
 
 List of Publications (\*: corresponding author)
 =====
+**How Good Are Multi-dimensional Learned Indices? An Experimental Survey**  
+**Qiyu Liu\***, Maocheng Li, Yuxiang Zeng, Yanyan Shen, Lei Chen   
+<span style="color:blue">**[Journal] VLDBJ 2025 (CCF-A)**</span> 🔗[**LINK**](https://arxiv.org/pdf/2405.05536)   
 
 **BitTuner: A Toolbox for Automatically Configuring Learned Data Compressors**    
 **Qiyu Liu**, Yuxin Luo, Mengke Cui, Siyuan Han, Jingshu Peng, Jin Li, Lei Chen    
@@ -22,11 +25,7 @@ Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jian
 
 **SanQus: Staleness and Quantization-Aware Full-Graph Decentralized Training in GNNs**   
 Hongbo Yin, Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jiannong Cao  
-<span style="color:blue">**[Conf] SC 2024 Research Poster (CCF-A)**</span> <span style="color:red">**🏆 Best Poster Finalist**</span> 🔗[**LINK**](https://sc24.supercomputing.org/proceedings/poster/poster_pages/post224.html)
-
-**How Good Are Multi-dimensional Learned Indices? An Experimental Survey**  
-**Qiyu Liu\***, Maocheng Li, Yuxiang Zeng, Yanyan Shen, Lei Chen   
-<span style="color:blue">**[Journal] VLDBJ 2024 Under Revision (CCF-A)**</span> 🔗[**LINK**](https://arxiv.org/pdf/2405.05536)
+<span style="color:blue">**[Conf] SC 2024 Research Poster (CCF-A)**</span> <span style="color:red">**🏆 Best Poster Finalist**</span> 🔗[**LINK**](https://sc24.supercomputing.org/proceedings/poster/poster_pages/post224.html)   
 
 **GSD-GNN: Generalizable and Scalable Algorithms for Decoupled Graph Neural Networks**    
 Yunfeng Yu, Longlong Lin, **Qiyu Liu**, Zeli Wang, Xi Ou, Tao Jia    
