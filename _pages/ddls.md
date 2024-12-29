@@ -7,12 +7,10 @@ author_profile: true
 
 
 
-Papers published on **1st tier** venues are "cakes" while others are "icing" 🍰.   
-   
-
-
 Important Conferences
 =====
+Papers published on **1st tier** venues are "cakes" while others are "icing" 🍰.   
+
 Here is a useful 🔗[WEBSITE](https://ccfddl.github.io/) summarizing all important conference DDLs.
 
 <span style="color:blue">**Database**
