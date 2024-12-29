@@ -8,7 +8,6 @@ author_profile: true
 
 
 <img style="float: right;" src="/images/gaoshou.png" alt="drawing" width="200"/>
-
 Papers published on **1st tier** venues are "cakes" while others are "icing" 🍰.   
    
 
