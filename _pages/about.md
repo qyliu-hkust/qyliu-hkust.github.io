@@ -21,6 +21,9 @@ I obtained my Ph.D. degree in Computer Science from the Hong Kong University of 
 CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
 
 
+<img src="/images/gaoshou.png" alt="drawing" width="200"/>
+
+
 Research Interest
 ======
 * **AI for DB/SYS**: learned index, learned query optimizer, data-driven DBMS, etc.
