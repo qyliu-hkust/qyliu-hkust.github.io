@@ -20,21 +20,12 @@ I obtained my Ph.D. degree in Computer Science from the Hong Kong University of 
 
 CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
 
+
 Research Interest
 ======
-* **AI for DB**: learned index, learned query optimizer, data-driven DBMS, etc.
-* **DB for AI**: LLM inference acceleration, AI infrastructures, etc.
-* **AI for Science**: AI for medical research, scientific data management, etc.
+* **AI for DB/SYS**: learned index, learned query optimizer, data-driven DBMS, etc.
+* **DB/SYS for AI**: LLM inference acceleration, AI infrastructures, etc.
   
-Recent News
-======
-* **[10/01/2024]** Our theoretical revisit on PGM-Index has been submitted to VLDB 2025 ([arXiv link](https://arxiv.org/abs/2410.00846))!
-* **[09/11/2024]** Our system SanQus has been accepted and nominated as the best research poster award by SC 2025!
-* **[08/16/2024]** Our system SanQus has been submitted to SC 2025!
-* **[07/01/2024]** Our system on efficient distributed GNN training (staleness+quantization) has been submitted to VLDBJ!
-* **[05/26/2024]** Our work on benchmarking learned spatial indexes has been submitted to VLDBJ!
-* **[03/11/2024]** I have joined Southwest University as a professor. Welcome to join me if you are self-motivated and interested in my research!
-* **[01/01/2024]** I will join Southwest University as a faculty member in March 2024!
 
 Skills
 ======
