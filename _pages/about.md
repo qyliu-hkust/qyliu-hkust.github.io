@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img style="float: right;" src="/images/gaoshou.png" alt="drawing" width="185"/>
+
 Qiyu LIU
 =====
 **Prof. @ SWU & Ph.D. @ HKUST**\
@@ -17,6 +17,7 @@ Qiyu LIU
 
 Biography
 ======
+<img style="float: right;" src="/images/gaoshou.png" alt="drawing" width="185"/>
 I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I received my B.S. degree in Computer Science from UESTC. **I wish myself to do something minor but useful.** 
 
 CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
