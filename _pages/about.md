@@ -18,13 +18,14 @@ Qiyu LIU
 Biography
 ======
 <img style="float: right;" src="/images/gaoshou.png" alt="drawing" width="185"/>
-I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I received my B.S. degree in Computer Science from UESTC. 
+I obtained my Ph.D. degree in Computer Science from the Hong Kong University of Science and Technology under the supervision of Prof. Lei Chen. Before that, I received my B.S. degree in Computer Science from UESTC.  
 
-**I wish myself to do something minor but useful.** 
+CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
+
+**I wish myself to do something impactful.** 
 
 **I hope everyone to read this [letter](https://jyywiki.cn/Letter.md) (in Chinese) from Dr. Yanyan Jiang.**   
 
-CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
 
 
 Research Interest
