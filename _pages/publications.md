@@ -7,7 +7,13 @@ author_profile: true
 
 List of Publications (\*: corresponding author)
 =====
+**Not Small Enough? SegPQ: A Learned Approach to CompressProduct Quantization Codebooks**  
+**Qiyu Liu\***, Yanlin Qi, Siyuan Han, Jingshu Peng, Jin Li, Lei Chen   
+<span style="color:blue">**[Conf] VLDB 2025 (CCF-A)**</span> (To appear)
 
+**Why Are Learned Indexes So Effective but Sometimes Ineffective?**  
+**Qiyu Liu\***, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, Longlong Lin, Lei Chen   
+<span style="color:blue">**[Conf] VLDB 2025 (CCF-A)**</span> 🔗[**LINK**](https://arxiv.org/pdf/2410.00846)   
 
 **From Sancus to Sancus<sup>Q</sup>: Staleness and Quantization-Aware Full-Graph Decentralized Training in Graph Neural Networks**   
 Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jiannong Cao  
@@ -20,10 +26,6 @@ Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jian
 **BitTuner: A Toolbox for Automatically Configuring Learned Data Compressors**    
 **Qiyu Liu**, Yuxin Luo, Mengke Cui, Siyuan Han, Jingshu Peng, Jin Li, Lei Chen    
 <span style="color:blue">**[Conf] ICDE 2025 Demonstration Paper (CCF-A)**</span> (To appear)   
-
-**Why Are Learned Indexes So Effective but Sometimes Ineffective?**  
-**Qiyu Liu\***, Siyuan Han, Yanlin Qi, Jingshu Peng, Jin Li, Longlong Lin, Lei Chen   
-<span style="color:blue">**[Conf] VLDB 2025 Under Revision (CCF-A)**</span> 🔗[**LINK**](https://arxiv.org/pdf/2410.00846)   
 
 **SanQus: Staleness and Quantization-Aware Full-Graph Decentralized Training in GNNs**   
 Hongbo Yin, Jingshu Peng, **Qiyu Liu**, Zhao Chen, Yingxia Shao, Yanyan Shen, Lei Chen, Jiannong Cao  
