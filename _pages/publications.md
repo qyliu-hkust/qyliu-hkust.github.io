@@ -9,11 +9,11 @@ List of Publications (\*: corresponding author)
 =====
 **Shapley-Based Data Valuation for Weighted k-Nearest Neighbors**   
 Guangyi Zhang, **Qiyu Liu\***, Aristides Gionis\*    
-<span style="color:blue">**[Conf] NeurIPS 2025 (CCF-A)**</span>(To appear) 
+<span style="color:blue">**[Conf] NeurIPS 2025 (CCF-A)**</span> (To appear) 
 
 **Localized Data Shapley: Accelerating Valuation for Nearest Neighbor Algorithms**    
-Guangyi Zhang, Yanhao Wang, Chengliang Chai, Qiyu Liu, Wei Wang    
-<span style="color:blue">**[Conf] NeurIPS 2025 (CCF-A)**</span>(To appear)   
+Guangyi Zhang, Yanhao Wang, Chengliang Chai, **Qiyu Liu**, Wei Wang    
+<span style="color:blue">**[Conf] NeurIPS 2025 (CCF-A)**</span> (To appear)   
 
 **Not Small Enough? SegPQ: A Learned Approach to CompressProduct Quantization Codebooks**   
 **Qiyu Liu\***, Yanlin Qi, Siyuan Han, Jingshu Peng, Jin Li, Lei Chen   
