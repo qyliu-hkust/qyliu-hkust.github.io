@@ -22,6 +22,7 @@ I obtained my Ph.D. degree in Computer Science from the Hong Kong University of 
 
 CV: [English](https://qyliu-hkust.github.io/images/cv_lqy.pdf) [中文](https://qyliu-hkust.github.io/images/cv_lqy_cn.pdf)
 
+**I'm always a junior researcher with curiosity.**   
 **I wish myself to do something impactful.**   
 **I hope everyone to read this [letter](https://jyywiki.cn/Letter.md) (in Chinese) from Dr. Yanyan Jiang.**   
 
