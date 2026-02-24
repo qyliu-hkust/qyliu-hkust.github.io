@@ -7,13 +7,17 @@ author_profile: true
 
 List of Publications (\*: corresponding author)
 =====
+**LICO: An SIMD-Aware High-Performance Learned Inverted Index Compression Framework**    
+Xianyu Zhu, Guangyi Zhang, Zhibing Sha, Jianwei Liao, Sha Hu, Lei Chen, **Qiyu Liu\***    
+<span style="color:blue">**[Conf] SIGMOD 2026 (CCF-A)**</span> (To appear)   
+
 **Shapley-Based Data Valuation for Weighted k-Nearest Neighbors**   
 Guangyi Zhang, **Qiyu Liu\***, Aristides Gionis\*    
-<span style="color:blue">**[Conf] NeurIPS 2025 (CCF-A)**</span> (To appear) 
+<span style="color:blue">**[Conf] NeurIPS 2025 (CCF-A)**</span> 🔗[**LINK**](https://openreview.net/pdf?id=KXOn2Z6bEI)   
 
 **Localized Data Shapley: Accelerating Valuation for Nearest Neighbor Algorithms**    
 Guangyi Zhang, Yanhao Wang, Chengliang Chai, **Qiyu Liu**, Wei Wang    
-<span style="color:blue">**[Conf] NeurIPS 2025 (CCF-A)**</span> (To appear)   
+<span style="color:blue">**[Conf] NeurIPS 2025 (CCF-A)**</span> 🔗[**LINK**](https://openreview.net/pdf/ae9728ed7ae0fb3e95f9d28f14c333400aba72af.pdf)   
 
 **Not Small Enough? SegPQ: A Learned Approach to CompressProduct Quantization Codebooks**   
 **Qiyu Liu\***, Yanlin Qi, Siyuan Han, Jingshu Peng, Jin Li, Lei Chen   
