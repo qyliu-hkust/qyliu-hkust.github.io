@@ -8,8 +8,8 @@ author_profile: true
 List of Publications (\*: corresponding author)
 =====
 **LICO: An SIMD-Aware High-Performance Learned Inverted Index Compression Framework**    
-Xianyu Zhu, Guangyi Zhang, Zhibing Sha, Jianwei Liao, Sha Hu, Lei Chen, **Qiyu Liu\***    
-<span style="color:blue">**[Conf] SIGMOD 2026 (CCF-A)**</span> (To appear)   
+Xianyu Zhu, **Qiyu Liu\***, Guangyi Zhang, Zhibing Sha, Jianwei Liao, Sha Hu, Lei Chen    
+<span style="color:blue">**[Conf] SIGMOD 2026 (CCF-A)**</span> 🔗[**LINK**](https://dl.acm.org/doi/pdf/10.1145/3802079)   
 
 **Shapley-Based Data Valuation for Weighted k-Nearest Neighbors**   
 Guangyi Zhang, **Qiyu Liu\***, Aristides Gionis\*    

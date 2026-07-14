@@ -4,6 +4,9 @@ main:
     url: /publications/
   - title: "DDLs"
     url: /ddls/
+  - title: "Useful Info"
+    url: /info/
   - title: "Cats"
     url: /cats/
+  
     
